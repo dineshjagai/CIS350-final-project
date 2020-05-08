@@ -6,7 +6,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 =======
 # 350S20-7
 # CIS320 FINAL PROJECT! 
-![kindness](https://github.com/cis350/350S20-7/blob/master/client/Images/quote_app.jpeg)
+![kindness](https://github.com/dineshjagai/CIS350-Final-Project/blob/master/client/Images/quote_app.jpeg)
 # Team-members 
   - Dinesh Jagai <dinesh97@seas.upenn.edu>
   - Jonah Schimpf <jschimpf@seas.upenn.edu>
